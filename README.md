@@ -13,3 +13,6 @@ drug-disease adjacency matrix with predicted scores for unknown drug-disease pai
 ### Results: 
 The comprehensive experimental results show NMF-DR achieves superior prediction
 performance than several existing methods for drug-disease association prediction.
+
+
+TL-HGBI data set is available upon request to (Wang et al., 2014b)'s author: wangwhsdu@gmail.com
