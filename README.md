@@ -16,4 +16,4 @@ performance than several existing methods for drug-disease association predictio
 
 
 TL-HGBI data set is available upon request to (Wang et al., 2014b)'s author: wangwhsdu@gmail.com or the link below:
-https://drive.google.com/file/d/1BG0FOuVFh5uyIW_IWBEZpsLJP8IlPk-U/view?usp=sharing
+https://drive.google.com/file/d/1qksKMUQKgm3KW9D6FkWVA3thHyXDdFYC/view?usp=sharing
